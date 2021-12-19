@@ -1,0 +1,5 @@
+API:EE5B6858-E106-45CB-89FA-EE5965BC8248
+        Principal: bburston@42ADEL.ORG.AU
+
+  Issued                Expires             Flags    Principal
+Nov 22 12:03:40 2021  Nov 22 22:03:34 2021  FPIA   krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
